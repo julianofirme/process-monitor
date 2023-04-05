@@ -18,8 +18,9 @@ The monitor will refresh the CPU usage every 2 seconds and display the results i
 Here's an example output of the process monitor:
 
 ```
-cpu0 => [18.0%]       cpu1 => [11.1%]       cpu2 => [10.1%]   
-cpu3 => [9.3%]        cpu4 => [9.6%]        cpu5 => [12.1%]   
-cpu6 => [10.2%]       cpu7 => [10.4%]       cpu8 => [8.2%]    
-cpu9 => [7.7%]        cpu10 => [8.7%]       cpu11 => [9.1%]   
+cpu0 => [5.3%]        cpu1 => [4.3%]        cpu2 => [2.0%]    
+cpu3 => [1.0%]        cpu4 => [7.7%]        cpu5 => [5.4%]    
+cpu6 => [1.0%]        cpu7 => [1.5%]        cpu8 => [3.4%]    
+cpu9 => [2.0%]        cpu10 => [2.0%]       cpu11 => [2.5%]    
+ram => [6145mb/16124mb] 
 ```
