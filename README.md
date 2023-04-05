@@ -3,7 +3,7 @@
 This is a simple process monitor that displays information about the system's CPU and RAM usage for each process. It uses the **sysinfo** to get system information and the **termion** crate to format the output.
 
 ## TODO
-- [ ] Implement RAM usage
+- [x] Implement RAM usage
 - [ ] Format the output to a beautiful table
 
 ## Usage
